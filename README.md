@@ -14,12 +14,13 @@
 - Recreated a personal favorite card game using C++ and Python
 
 ### 3-D Creations in Blender
-- Models created for use in 3-D printing
-- Dog head for robot
 - School projects
-  ![prints](/assets/final3dprintsWeb.jpeg)
+  ![](/assets/final3dprintsWeb.jpeg)
+- Dog head for robot
+  ![](/assets/dogHeadPic2.jpg)
 
 ### Gaming Accolades
 - Chess.com rating 1636 in Rapid and 2392 in Puzzles (99.1% percentile)
 - WORLD RECORD: Most eliminations in a Halo-Infinite slayer game
+  [https://youtu.be/DASJs5_29AA](https://youtu.be/DASJs5_29AA)
 - CS:GO (#1 Global FPS E-Sport) Max rank of Legendary Eagle (90+% percentile)

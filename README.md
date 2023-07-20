@@ -6,6 +6,8 @@
  B.A. | City University of New York, Queens College (in progress)
 - Major in Mathematics with a concentration in Data Science and Statistics
 - Minor in Computer Science
+- Freshman Honors Program
+- 2x Dean's List Academic Honors
 
 ## Projects
 ### Machi Koro Game Recreation in C++ and Python

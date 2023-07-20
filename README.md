@@ -15,7 +15,7 @@
 - Models created for use in 3-D printing
 - Dog head for robot
 - School projects
-  (/assets/final3dprintsWeb.jpeg)
+  ![prints](/assets/final3dprintsWeb.jpeg)
 
 ### Gaming Accolades
 - Chess.com rating 1636 in Rapid and 2392 in Puzzles (99.1% percentile)

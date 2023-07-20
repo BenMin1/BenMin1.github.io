@@ -13,8 +13,8 @@
 
 ### 3-D Creations in Blender
 - Models created for use in 3-D printing
--Dog head for robot
--School projects
+- Dog head for robot
+- School projects
 
 ### Gaming Accolades
 - Chess.com rating 1636 in Rapid and 2392 in Puzzles (99.1% percentile)

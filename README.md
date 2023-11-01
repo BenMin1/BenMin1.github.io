@@ -15,9 +15,9 @@
 
 ### 3-D Creations in Blender
 - School projects
-  ![](/assets/final3dprintsWeb.jpeg)
+  ![](/assets/final3dprintsWeb2SQ.jpeg)
 - Dog head for robot
-  ![](/assets/dogHeadPic2.jpg)
+  ![](/assets/dogHeadPic1.jpg)
 
 ### Gaming Accolades
 - High school chess team captain, Chess.com rating 1636 in Rapid and 2392 in Puzzles (99.1% percentile)

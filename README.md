@@ -1,6 +1,6 @@
 # Benjamin
 
-#### Technical Skills: C++, Python
+#### Technical Skills: C++, Python, Java
 
 ## Education
  B.A. | City University of New York, Queens College (in progress)

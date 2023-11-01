@@ -19,8 +19,8 @@
 - Dog head for robot
   ![](/assets/dogHeadPic1.jpg)
 
-### Gaming Accolades
-- High school chess team captain, Chess.com rating 1636 in Rapid and 2392 in Puzzles (99.1% percentile)
-- WORLD RECORD: Most eliminations in a Halo-Infinite slayer game
-  [https://youtu.be/DASJs5_29AA](https://youtu.be/DASJs5_29AA)
-- CS:GO (#1 Global FPS E-Sport) Max rank of Legendary Eagle (90+% percentile)
+### Gaming Accolades 
+####Chess
+- Chess.com rating 1636 in Rapid and 2392 in Puzzles (99.1% percentile)
+- High school chess team captain
+- Queens College Chess Club
